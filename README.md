@@ -1,7 +1,6 @@
 # 📚 Biblioteca Morteiro Lobato  
-
 Sistema de gerenciamento de empréstimos e devoluções de livros, disponível via **web** e com integração ao **balcão presencial**.  
-
+<img width="1045" height="970" alt="image" src="https://github.com/user-attachments/assets/f1a584b9-24a7-495c-9255-e41e2d1502d2" />
 ---
 
 ## 🚀 Fluxo do Sistema  
